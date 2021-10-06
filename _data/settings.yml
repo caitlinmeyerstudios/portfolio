@@ -17,7 +17,7 @@ footer_settings:
   footer_tagline: 
 
 hero_settings:
-  overlay_opacity: 0.2
+  overlay_opacity: 0.3
 
 post_settings:
   grid_spacing: 10
@@ -65,7 +65,7 @@ color_settings:
   accent_color: '#bab700'
   border_color: '#2E282A'
   hero_background_color: '#ffffff'
-  hero_text_color: '#003153'
+  hero_text_color: '#ffffff'
   error_color: '#CF5C36'
 
 font_settings:
