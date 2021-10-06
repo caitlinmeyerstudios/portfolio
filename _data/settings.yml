@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Caitlin Meyer Wolken
+  site_title: Caitlin Meyer Studios
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,15 +10,11 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: 
 
 hero_settings:
   overlay_opacity: 0.8
@@ -66,11 +62,11 @@ color_settings:
   text_dark_color: '#2E282A'
   text_medium_color: '#4c4246'
   text_light_color: '#62555A'
-  accent_color: '#FFC914'
+  accent_color: '#a8dcd1'
   border_color: '#2E282A'
-  hero_background_color: '#76B041'
+  hero_background_color: '#003153'
   hero_text_color: '#ffffff'
-  error_color: '#E4572E'
+  error_color: '#CF5C36'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
